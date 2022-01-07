@@ -17,7 +17,7 @@ This is a basic portfolio page where I can show off some projects I've worked on
 
 ## Known Bugs
 
-* image in about me section floats outside of section border
+* none
 
 ## License
 
