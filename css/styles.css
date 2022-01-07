@@ -23,7 +23,8 @@ ul {
 }
 
 header {
-  position: relative;
+  position: sticky;
+  top: 0;
   background-image: url(../img/istockphoto-1220573371-170667a.jpg);
   background-size: 100%;
   padding-bottom: 1%;
