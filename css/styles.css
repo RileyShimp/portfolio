@@ -17,6 +17,7 @@ body {
 }
 
 .body li {
+  font-size: 1.2em;
   color:rgb(60, 36, 1);
 }
 
@@ -103,4 +104,15 @@ p img {
 #span {
   font-family: bebas neue;
   font-size: 1.5em;
+}
+
+footer {
+  background-color: white;
+
+}
+
+footer img {
+  width: 50px;
+  padding-left: 50%;
+  padding-right: 50%;
 }
