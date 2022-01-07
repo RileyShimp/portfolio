@@ -108,11 +108,13 @@ p img {
 
 footer {
   background-color: white;
-
+  position: sticky;
+  bottom: 0;
+  border-top: solid rgb(2, 48, 71) 2px;
 }
 
 footer img {
-  width: 50px;
+  width: 35px;
   padding-left: 50%;
   padding-right: 50%;
 }
