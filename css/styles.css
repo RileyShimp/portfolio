@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@500&display=swap');
 
 html body{
   margin: 0;
@@ -7,23 +7,30 @@ html body{
 }
 
 body {
-  background-color:burlywood;
+  background-color: rgb(142, 202, 230 );
   margin:none;
-  font-family: Roboto;
+  font-family: open sans ;
 
 }
 
+h1 {
+  font-family: Bebas Neue;
+  font-size: 4em;
+}
+
 header {
+  position: relative;
   background-image: url(../img/istockphoto-1220573371-170667a.jpg);
   background-size: 100%;
   padding-bottom: 50px;
   padding-left: 15%;
   padding-top: 2%;
   text-align: left;
+  color: aliceblue;
 }
 
 .body {
-  border: solid black 20px;
+  border: solid rgb(2, 48, 71) 20px;
 }
 
 .projects {
@@ -42,4 +49,9 @@ p img {
   border: 2px dotted black;
   padding: 10px;
   padding-bottom: 100px;
+}
+
+#span {
+  font-family: bebas neue;
+  font-size: 1.5em;
 }
