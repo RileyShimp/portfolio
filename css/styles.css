@@ -144,3 +144,6 @@ footer img {
   padding-left: 50%;
   padding-right: 50%;
 }
+a:hover {
+  background-color: rgba(0, 157, 255, 0.557);
+}
